@@ -2,7 +2,7 @@ var cacheName = "Mis Perris V3";
 var filesToCache = [
     "/",
     "/index.html",
-    "/formulario.html",
+    "/registro.html",
     "/galeria.html",
     "/login.html",
     "/JavaScript/app.js",
